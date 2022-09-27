@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: AX6-5.10.145
+name: v4
 
 on:
   repository_dispatch:
