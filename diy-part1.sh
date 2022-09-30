@@ -17,4 +17,4 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-echo "203.107.6.88 time.android.com" >> /etc/hosts
+echo "203.107.6.88 time.android.com" >> package/base-files/files/etc/hosts
